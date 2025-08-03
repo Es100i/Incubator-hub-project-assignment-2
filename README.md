@@ -1,4 +1,4 @@
-the*Palmoria Group HR Analysis Capstone Projects
+*Palmoria Group HR Analysis Capstone Projects
 *Project Overview*
 As part of the Digital SkillUp Africa (DSA) Data Analysis Bootcamp, I developed a Power BI dashboard to analyze HR-related data for Palmoria Group, a Nigerian manufacturing company. The project aimed to uncover gender disparities, salary structures, bonus distribution, and compliance issues.
 *Tools Used:*
@@ -23,10 +23,6 @@ As part of the Digital SkillUp Africa (DSA) Data Analysis Bootcamp, I developed 
 re
 *Recommendations:*
 Based on these insights, the company may consider reviewing salary structures, bonus allocations, and performance evaluation processes to ensure fairness and equity.
-
-Let me know if you'd like me to make any changes!
-
-Here's a rewritten version:
 
 *Project Files*
 
